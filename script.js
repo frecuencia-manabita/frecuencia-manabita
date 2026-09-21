@@ -317,7 +317,7 @@ function activarMenu(menu) {
 // MOSTRAR NOTICIAS DE DIVERSAS PAGINAS Y CLASIFICAR POR CATEGORIA
 
 
-const URL_WORKER = "https://still-mountain-27bb.2143emilio.workers.dev";
+const URL_WORKER = "https://late-dust-a373.frecuenciamanabita2026.workers.dev/";
 
 // Diccionario para asignarle un icono de FontAwesome a cada categoría automáticamente
 const iconosCategorias = {
